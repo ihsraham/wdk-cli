@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dw/%40tetherto%2Fwdk-cli?style=flat-square)](https://www.npmjs.com/package/@tetherto/wdk-cli)
 [![license](https://img.shields.io/npm/l/%40tetherto%2Fwdk-cli?style=flat-square)](https://github.com/tetherto/wdk-cli/blob/main/LICENSE)
 
-A multi-chain crypto wallet for AI agents, built on [WDK (Wallet Development Kit) by Tether](https://wallet.tether.io/). Designed to be operated by AI agents (e.g. Claude, ChatGPT, OpenClaw).
+A multi-chain crypto wallet for AI agents, built on [WDK (Wallet Development Kit) by Tether](https://wdk.tether.io/). Designed to be operated by AI agents (e.g. Claude, ChatGPT, OpenClaw).
 
 > **AI agents:** see [`SKILL.md`](./SKILL.md) for the complete operational guide — commands, workflows, error handling, and safety rules.
 
